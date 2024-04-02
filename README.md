@@ -1,5 +1,4 @@
-# ACI_Trabalhos
-Trabalhos de Arquitetura de Computadores do curso de Ciência da Computação
+# Trabalhos de Arquitetura de Computadores do curso de Ciência da Computação
 
 > Trabalho_01: Criar uma ULA de 32 bits
 
